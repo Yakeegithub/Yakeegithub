@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Yakeegithub
-- 👀 I’m interested in ... computer&science
-- 🌱 I’m currently learning ...about scifi technology 
